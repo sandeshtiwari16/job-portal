@@ -1,5 +1,7 @@
 # Job Portal
 
+- This application is developed to help people to find their favourite job and apply for it. This application is built using python flask.
+
 _App working link is not available, so kindly download the code and run it in localhost:5000_
 
 _remotemysql is already integrated, so just download, run and enjoy the code._
